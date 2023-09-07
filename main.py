@@ -7,10 +7,10 @@ import random
 import time
 
 
-from Arts.arts import sex1, sex2, sex3, sex4
+from Arts.arts import sex1, sex2, sex3, sex4, sex5, sex6, sex7, sex8, sex9
 
 #Agrupando 
-sex_ascii_arts = [sex1, sex2, sex3, sex4]
+sex_ascii_arts = [sex1, sex2, sex3, sex4, sex5, sex6, sex7, sex8, sex9]
 
 
 #Url padrão 
